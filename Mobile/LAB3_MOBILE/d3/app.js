@@ -6,7 +6,7 @@ const MongoClient = require('mongodb').MongoClient;
 var ObjectId = require('mongodb').ObjectID;
 
 // Connection URL
-const url = 'mongodb://admin:A123456@ds131971.mlab.com:31971/lab';
+const url = 'mongodb://admin:admin123@ds255930.mlab.com:55930/lab';
 
 // Database Name
 const dbName = 'lab';
